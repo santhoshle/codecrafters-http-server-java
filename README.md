@@ -1,5 +1,7 @@
 ## 🧪 HTTP Server – CodeCrafters Challenge (Java)
 
+[![progress-banner](https://backend.codecrafters.io/progress/http-server/199516b4-2916-4f27-bb50-02e77f4bcd96)](https://app.codecrafters.io/users/codecrafters-bot?r=2qF)
+
 This repository contains my completed solution to the [CodeCrafters HTTP Server challenge](https://app.codecrafters.io/courses/http-server/overview) implemented in **Java**. The challenge involves building a fully-functional HTTP/1.1 server from scratch, handling features such as request parsing, routing, persistent connections, and compression.
 
 ### 🚀 Features Implemented
